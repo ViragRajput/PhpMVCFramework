@@ -8,5 +8,6 @@
 </head>
 <body>
     <h1><?php echo $data['title']; ?></h1>
+    
 </body>
 </html>
