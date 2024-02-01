@@ -1,4 +1,4 @@
-# Simple PHP MVC Framework
+# Small PHP MVC Framework
 
 This is a basic MVC framework written in PHP designed for learning and example purposes. The framework provides the core structure and scaffolding to start building an application using the model-view-controller pattern.
 
